@@ -45,13 +45,13 @@ for (let i=0; i<listaAmigos.length; i++){
 function limparCampo(){
     nome = document.querySelector('#amigo');
     nome.value = '';
+    return;
 }
 
 function sortearAmigo(){
 
     if (amigos.length === 0){
         alert ("Comece digitando os nomes dos amigos");
-        return;
     }
 
     let resultado = document.getElementById('resultado');
