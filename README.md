@@ -4,3 +4,5 @@ Tecnologias utilizadas:
   Javascript;
   HTML;
   CSS.
+
+  deploy: https://amigo-secreto-xi-lemon.vercel.app/
