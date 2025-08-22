@@ -5,4 +5,4 @@ Tecnologias utilizadas:
   HTML;
   CSS.
 
-  deploy: https://amigo-secreto-xi-lemon.vercel.app/
+  deploy: https://amigo-secreto-gmot.vercel.app/
